@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/412/trunk/doc/source
+END
+intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/397/trunk/doc/source/intro.rst
+END
+build.rst
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/402/trunk/doc/source/build.rst
+END
+1minute.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/397/trunk/doc/source/1minute.rst
+END
+samples.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/397/trunk/doc/source/samples.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/402/trunk/doc/source/conf.py
+END
+5minute.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/397/trunk/doc/source/5minute.rst
+END
+faq.rst
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/397/trunk/doc/source/faq.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/403/trunk/doc/source/index.rst
+END
